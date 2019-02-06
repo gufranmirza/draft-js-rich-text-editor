@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import PageContainer from './components/BasicEditor'
+import RichUtilsEditor from './components/RichUtilsEditor'
 
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <PageContainer />
+        <RichUtilsEditor />
       </div>
     );
   }
