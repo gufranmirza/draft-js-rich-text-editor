@@ -12,3 +12,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.editorContainer {
+    padding: 50px;
+    margin: 0 auto;
+    max-width: 700px;
+    text-align: left;
+}
+
+.editors {
+    background: #fafafa;
+    padding: 15px;
+}
