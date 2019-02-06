@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
-import RichUtilsEditor from './components/RichUtilsEditor'
+import RichUtilsEditor from './components/RichButtonsEditor'
 
 
 class App extends Component {
